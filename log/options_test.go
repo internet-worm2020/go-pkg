@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/marmotedu/iam/pkg/log"
+	"github.com/internet-worm2020/go-pkg/log"
 )
 
 func Test_Options_Validate(t *testing.T) {

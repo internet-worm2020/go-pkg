@@ -4,7 +4,7 @@ import (
 	"context"
 	"flag"
 
-	"github.com/marmotedu/iam/pkg/log"
+	"github.com/internet-worm2020/go-pkg/log"
 )
 
 var (

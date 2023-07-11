@@ -6,7 +6,7 @@ import (
 	"github.com/spf13/pflag"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/marmotedu/iam/pkg/log"
+	"github.com/internet-worm2020/go-pkg/log"
 )
 
 func Test_WithName(t *testing.T) {

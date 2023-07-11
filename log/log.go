@@ -9,7 +9,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"xa/pkg/log/klog"
+	"github.com/internet-worm2020/go-pkg/log/klog"
 )
 
 // InfoLogger represents the ability to log non-error messages, at a particular verbosity.

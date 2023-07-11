@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/marmotedu/iam/pkg/log"
+	"github.com/internet-worm2020/go-pkg/log"
 )
 
 func main() {
